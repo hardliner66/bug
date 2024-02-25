@@ -1,9 +1,0 @@
-.{
-    .name = "zig-game",
-    .version = "0.0.1",
-    .paths = .{
-        "build.zig",
-        "build.zig.zon",
-    },
-    .dependencies = .{},
-}
